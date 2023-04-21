@@ -73,7 +73,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<org.apache.spark.spark-core.version>2.4.4</org.apache.spark.spark-core.version>
+		<org.apache.spark.spark-core.version>3.4.0</org.apache.spark.spark-core.version>
 		<org.apache.spark.spark-sql.version>2.4.4</org.apache.spark.spark-sql.version>
 		<org.apache.spark.spark-streaming.version>2.4.4</org.apache.spark.spark-streaming.version>
 		<org.apache.spark.spark-streaming-kafka.version>2.4.4</org.apache.spark.spark-streaming-kafka.version>
